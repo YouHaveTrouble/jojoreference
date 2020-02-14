@@ -1,0 +1,11 @@
+main: eu.endermite.jojoreference.JojoReference
+name: JoJoReference
+description: Dio!
+version: 1.0
+author: YouHaveTrouble
+website: endermite.eu
+prefix: JoJoRefeRence
+commands:
+  jojo:
+    usage: /<cmd> <arg> [arg]
+    description: Main command for JoJoReference
